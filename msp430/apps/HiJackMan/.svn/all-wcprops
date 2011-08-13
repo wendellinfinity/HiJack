@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan
+END
+HiJackM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan/HiJackM.nc
+END
+HiJackAppM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan/HiJackAppM.nc
+END
+HiJack.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan/HiJack.nc
+END
+HiJackC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan/HiJackC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/msp430/apps/HiJackMan/Makefile
+END

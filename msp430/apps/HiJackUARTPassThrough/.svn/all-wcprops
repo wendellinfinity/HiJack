@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough
+END
+HiJackM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/HiJackM.nc
+END
+HiJackAppM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/HiJackAppM.nc
+END
+HiJack.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/HiJack.nc
+END
+HiJackC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/HiJackC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/msp430/apps/HiJackUARTPassThrough/Makefile
+END

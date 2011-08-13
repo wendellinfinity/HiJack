@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/msp430/support/make/hijack
+END
+hijack.rules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/msp430/support/make/hijack/hijack.rules
+END
+miniprog.extra
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/msp430/support/make/hijack/miniprog.extra
+END

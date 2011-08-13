@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/msp430/binaries
+END
+hijack_uart0_pass_through.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/18/trunk/msp430/binaries/hijack_uart0_pass_through.ihex
+END
+hijack_a6.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/msp430/binaries/hijack_a6.ihex
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18/trunk/msp430/binaries/README
+END

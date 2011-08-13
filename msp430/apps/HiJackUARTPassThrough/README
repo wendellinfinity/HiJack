@@ -1,0 +1,7 @@
+This application is an example for a UART pass-through HiJack. It takes
+whatever byte comes in from UART0 and passes it to the iPhone. Vice-versa,
+it takes whatever byte comes from the iPhone and sends it out on the UART0.
+Note, however, that we don't do any buffering on the incomming bytes. For a
+real application, this buffering is essential as even the slightest burst
+from the UART0 will overwhelm the HiJack connection, and thus bytes would
+get lost.

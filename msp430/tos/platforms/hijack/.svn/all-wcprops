@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack
+END
+MoteClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/MoteClockP.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/MoteClockC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/PlatformP.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/hardware.h
+END
+TelosSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/TelosSerialP.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/PlatformSerialC.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/PlatformC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/MotePlatformC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/platform_message.h
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/msp430/tos/platforms/hijack/PlatformLedsC.nc
+END
